@@ -1,7 +1,6 @@
+# Newton-s-Method
+
 These problems are from the Numerical Optimization text by Nocedal and Wright, Second Edition.
-
-Start early. This requires some coding.
-
 
 Part A) 
 
@@ -17,4 +16,4 @@ Part C)
 
 Exercise: 3.1, but only the Newton's method part and no line search is required. However, have your code plot in 2D the places where the evaluations occurred so it will be easy to see the path the search algorithm took.
 
-# Newton-s-Method
+
